@@ -5,3 +5,5 @@ Keil5 is the STM32 project file;
 HMI is the interface design engineering document;
 
 Face captures code for Python images;
+
+AD_Board is the EDA engineering document of Jialichuang;
